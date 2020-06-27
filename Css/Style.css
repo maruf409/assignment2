@@ -1,0 +1,169 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-body {
+    background: url(../img/Abstruct2.jpg);
+    background-size: cover;
+}
+
+.main-container {
+    width: 601px;
+    margin: 10% auto;
+}
+
+.main-login {
+    padding: 94px;
+    background-color: #0c4559e8;
+    border-radius: 83px 83px 83px 83px;
+    -moz-border-radius: 83px 83px 83px 83px;
+    -webkit-border-radius: 83px 83px 83px 83px;
+
+}
+
+.main-icon {
+    display: block;
+    margin: 0 auto;
+    width: 99px;
+    height: 110px;
+}
+
+.main-form-cont {
+    text-align: center;
+    width: 95%;
+    height: 32px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.main-btn {
+    width: 118px;
+    height: 34px;
+    background-color: #2e7256;
+    border: none;
+    border-radius: 98px 98px 98px 98px;
+    -moz-border-radius: 98px 98px 98px 98px;
+    -webkit-border-radius: 98px 98px 98px 98px;
+    transition: 0.8s ease-in-out;
+    -webkit-transition: 0.8s ease-in-out;
+    -moz-transition: 0.8s ease-in-out;
+    -o-transition: 0.8s ease-in-out;
+}
+
+.main-btn:hover {
+    box-shadow: 2px 4px 5px blue;
+    cursor: pointer;
+}
+
+.main-btn-reg {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    background-color: #ededed;
+    border-radius: 49px 49px 49px 49px;
+    -moz-border-radius: 49px 49px 49px 49px;
+    -webkit-border-radius: 49px 49px 49px 49px;
+    margin-left: 198px;
+}
+
+.main-btn-reg:hover {
+    box-shadow: 3px 4px 0px 0px #899599;
+    background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color: #ededed;
+    border-radius: 15px;
+    border: 1px solid #d6bcd6;
+    cursor: pointer;
+    color: #3a8a9e;
+
+
+    text-shadow: 0px 1px 0px #e1e2ed;
+}
+
+/*.....Registration Style....*/
+body {
+    background: url(../img/Abstruct.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 601px;
+    margin: 10% auto;
+}
+
+.Reg-form {
+    padding: 25px;
+    background-color: #2196f380;
+    border-radius: 87px 0px 87px 0px;
+    -moz-border-radius: 87px 0px 87px 0px;
+    -webkit-border-radius: 87px 0px 87px 0px;
+}
+
+.icon {
+    display: block;
+    margin: 0 auto;
+    width: 112px;
+    height: 110px;
+    margin-bottom: 19px;
+}
+
+.form-con1 {
+    width: 48%;
+    height: 50%;
+    padding: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.form-con2 {
+    width: 97%;
+    height: 83%;
+    margin-top: 4px;
+    padding: 4px;
+    text-align: center;
+}
+
+.form-con3 {
+    width: 48%;
+    height: 50%;
+    margin-top: 4px;
+    padding: 1px;
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+    color: dodgerblue;
+    width: 4px;
+    height: 3px;
+
+}
+
+.myButton {
+    box-shadow: inset -17px 0px 22px -6px #f5978e;
+    background: linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+    background-color: #f24537;
+    border-radius: 6px;
+    border: 1px solid #d02718;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 11px 39px;
+    text-decoration: none;
+    text-shadow: 0px 0px 34px #810e05;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+    background-color: dodgerblue;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
